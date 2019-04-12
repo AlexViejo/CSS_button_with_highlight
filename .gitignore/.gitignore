@@ -1,31 +1,4 @@
 $ cat .gitignore
 
 /node_modules/
-package-lock.json
-/administrator/
-/bin/
-/cache/
-/cli/
-/components/
-/images/
-/includes/
-/language/
-/layouts/
-/libraries/
-/media/
-/modules/
-/package/
-/package/
-/plugins/
-/tmp/
-/vm_update/
-/templates/beez3/
-/templates/protostar/
-/templates/shaper_helixultimate/
-/templates/system/
-/templates/vmbeez3/
-/templates/vmstore/
-/templates/index.html
-configuration.php
-LICENSE.txt
-web.config.txt
+style.css.map
